@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="kalex79126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=#EA4335&logo=Gmail&logoColor=red"/></a>
+<a href="kalex79126@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=#EA4335&logo=gmail&logoColor=white"/></a>
