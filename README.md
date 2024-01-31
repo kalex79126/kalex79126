@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalex68125&label=Profile%20views&color=0e75b6&style=flat" alt="kalex68125" /> </p>
 
-- I'm certified in **Security+ by CompTIA, CC by (ISC)2**
+- 🏫 Computer Programming Graduate
+- 🖥️ Walking my path towards a field of **CyberSecurity**
+- ✏️ Certified in **Security+ by CompTIA, CC by (ISC)2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
