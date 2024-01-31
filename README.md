@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-jungtae-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-jungtae-kim" height="30" width="40" /></a>
+<a href="https://www.notion.so/Alex-Kim-64372170ac0645b3b6cbe5b81e6b6a11" target="blank"><img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="jungtae-kim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
