@@ -7,6 +7,14 @@
 - 🖥️ Walking my path towards a field of **CyberSecurity**
 - ✏️ Certified in **Security+ by CompTIA, CC by (ISC)2**
 
+I am a passionate computer programming graduate with a strong interest in the world of cybersecurity and digital defense. Not only do I possess a strong understanding of languages such as Python, SQL, and C#, but I have also obtained cybersecurity certificates, including Security+ offered by CompTIA and CC by (ISC)2, to prepare for real-world security incident response. My skills extend to identifying vulnerabilities, mitigating risks, and ensuring the confidentiality, integrity, and availability of critical systems and data. Additionally, I have a robust knowledge of operating system administration, networking fundamentals, and network security.
+
+Throughout my studies, I developed powerful problem-solving skills and made valuable contributions to group projects using GIT for version control. Recognized for my academic performance, I achieved President's Honour Roll recognition. One of my standout achievements was the development of a committee management application selected by the client, NC-PAC (Niagara College Program Advice Committee), for use in their real-world meetings and to oversee committee members.
+
+In the ever-evolving landscape of cybersecurity, continuous learning is paramount. I am committed to staying up-to-date with the latest trends, tools, and techniques in the field to better protect organizations from evolving threats. I approach each task with a detail-oriented mindset and a commitment to ensuring the safety of data for both users and stakeholders.
+
+I thrive in collaborative environments where I can work closely with developers and other stakeholders, incorporating efficient solutions to overcome challenges and achieve project goals. Currently, I am actively seeking new opportunities in the cybersecurity field. Let's connect and explore how we can work together to achieve mutual success
+
 <h3 align="left">Connect With Me...</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-jungtae-kim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-jungtae-kim" height="40" width="120" /></a>
